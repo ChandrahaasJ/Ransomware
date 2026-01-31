@@ -8,3 +8,5 @@ D:\CODES\Projects\Ransomware_Desktop\ransomx_with_payload.csv
 /out
 /websockets-test/node_modules
 /websockets-test/package-lock.json
+
+.venv
